@@ -85,7 +85,7 @@ public class QuizQuestionActivity extends AppCompatActivity {
         questionList.add(question1);
 
         // question 2
-        QuestionModel question2 = new QuestionModel("Select the correct syntax for a for loop in Java",
+        QuestionModel question2 = new QuestionModel("Select the correct syntax for a \"for loop\" in Java",
                 "for (String i = 0; i < 10; i++)","for (int i = 0: i < 10: i++)",
                 "for (int i = 0; i < 10; i++)",
                 "for (String i = 0: i < 10: i++)",3);
