@@ -3,7 +3,7 @@ An android application that quizzes the user on the syntax of common programming
 
 Built in Android Studio using Java and XML.
 
-Created in collaboration with [DataStructuresAndAlgorithms](https://github.com/DataStructuresAndAlgorithms).
+Created in collaboration with [DataStructuresAndAlgorithms](https://github.com/DataStructuresAndAlgorithms) as part of a SWE fellowship program.
 
 ---
 
