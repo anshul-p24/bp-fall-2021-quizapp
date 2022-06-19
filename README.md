@@ -5,7 +5,7 @@ Built in Android Studio using Java and XML.
 Created in collaboration with [DataStructuresAndAlgorithms](https://github.com/DataStructuresAndAlgorithms).
 
 ### Start screen:
-![Start](./docs/images/start-screen.png)
+<img src="./docs/images/start-screen.png" width="100">
 
 ### Questions screen:
 ![Question](./docs/images/quiz-screen.png)
