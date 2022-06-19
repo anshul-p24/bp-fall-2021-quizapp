@@ -1,4 +1,5 @@
-# bp-fall-2021-quizapp
-BP Fall 2021 Project Skeleton
+# Syntax Quiz
+An android application that quizzes the user on the syntax of common programming languages and displays the score at the end.
 
-Hi Fall 2021 Blueprint SWE fellows! Clone this project skeleton to get started making your own Android Quiz Application :)
+Built in Android Studio using Java and XML.
+Created in collaboration with [DataStructuresAndAlgorithms](https://github.com/DataStructuresAndAlgorithms)
