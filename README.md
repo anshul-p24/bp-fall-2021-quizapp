@@ -5,10 +5,10 @@ Built in Android Studio using Java and XML.
 Created in collaboration with [DataStructuresAndAlgorithms](https://github.com/DataStructuresAndAlgorithms).
 
 ### Start screen:
-<img src="./docs/images/start-screen.png" width="100">
+<img src="./docs/images/start-screen.png" height="600">
 
 ### Questions screen:
-![Question](./docs/images/quiz-screen.png)
+<img src="./docs/images/quiz-screen.png" height="600">
 
 ### Result screen:
-![Result](./docs/images/result-screen.png)
+<img src="./docs/images/result-screen.png" height="600">
